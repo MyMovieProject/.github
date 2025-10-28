@@ -1,5 +1,5 @@
 # 🎬 Movie-platform
-> Spring Boot 와 MySQL 으로 구현한 영화 플랫폼 서비스 (백엔드)
+> React(Frontend)와 Spring Boot(Backend)를 기반으로 구현한 영화 플랫폼 프로젝트
 
 ## 📆 개요
 
@@ -7,6 +7,8 @@
 | :---: | :---: |
 | 프로젝트 기간 | 2025.8.21 ~ 2025.10.27 |
 | 개발인원 | 1인 |
+
+> 도메인: https://myproject-movie.shop/
 
 ## 🧩 시스템 아키텍처
 
