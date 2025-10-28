@@ -8,7 +8,9 @@
 | 프로젝트 기간 | 2025.8.21 ~ 2025.10.27 |
 | 개발인원 | 1인 |
 
-> 도메인: https://myproject-movie.shop/
+- **도메인:** [https://myproject-movie.shop/](https://myproject-movie.shop/)
+- **프론트엔드:** [MyMovieProject/movie-platform-front](https://github.com/MyMovieProject/movie-platform-front)
+- **백엔드:** [MyMovieProject/movie-platform](https://github.com/MyMovieProject/movie-platform)
 
 ## 🧩 시스템 아키텍처
 
@@ -23,6 +25,8 @@
 ## 🖼️ ERD
 
 ![ERD 다이어그램](./images/ERD.png)
+
+🛠️ 기술 스택 / 작성
 
 ## ✨ 주요 기능
 
