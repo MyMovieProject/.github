@@ -24,14 +24,12 @@
 
 ## 🛠️ 기술 스택 / 작성중
 
-## 🏛 기술 스택
-
 | 구분 | 기술 |
 |---|---|
 | Frontend | React |
 | Backend | Spring Boot, Spring Security, JWT, JPA, QueryDSL, Maven |
 | Database | MySQL |
-| Infra | Docker, Nginx, GitHub Actions, AWS EC2/S3, AWS RDS |
+| Infra | Docker, Nginx, GitHub Actions, AWS EC2, AWS RDS |
 
 ## 🖼️ ERD
 
