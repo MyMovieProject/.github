@@ -22,11 +22,20 @@
 * NPM은 요청 URL을 분석하여 일반 페이지 요청은 프론트엔드 컨테이너로, /api 경로의 요청은 백엔드 컨테이너로 라우팅합니다.
 * NPM, 프론트, 백엔드 컨테이너는 모두 동일한 도커 네트워크에 속해 있어, 내부적으로 컨테이너 이름을 통해 서로 통신합니다.
 
+## 🛠️ 기술 스택 / 작성중
+
+## 🏛 기술 스택
+
+| 구분 | 기술 |
+|---|---|
+| Frontend | React |
+| Backend | Spring Boot, Spring Security, JWT, JPA, QueryDSL, Maven |
+| Database | MySQL |
+| Infra | Docker, Nginx, GitHub Actions, AWS EC2/S3, AWS RDS |
+
 ## 🖼️ ERD
 
 ![ERD 다이어그램](./images/ERD.png)
-
-## 🛠️ 기술 스택 / 작성중
 
 ## ✨ 주요 기능
 
